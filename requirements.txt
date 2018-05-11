@@ -1,0 +1,7 @@
+keras
+numpy
+matplotlib
+graphviz
+pydot
+cairocffi
+editdistance
